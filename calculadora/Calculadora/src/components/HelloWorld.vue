@@ -5,7 +5,7 @@
         <v-container>
           <v-row>
             <v-col cols="12">
-              <h1 class="text-center">Calculadora</h1>
+              <h1 class="pa-8 mt-10" elevation="20">Calculadora</h1>
             </v-col>
           </v-row>
         </v-container>
